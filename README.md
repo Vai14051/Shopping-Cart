@@ -1,4 +1,10 @@
 Shopping App 🛍️
+
+
+
+
+
+
 A fully functional Shopping App built with React, Redux, and React Router DOM. The app allows users to browse products, add items to their cart, and proceed with a checkout process. It leverages state management using Redux and navigation using React Router DOM for a seamless experience.
 
 Features
@@ -18,7 +24,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/shopping-app.git
+git clone https://github.com/Vai14051/Shopping-Cart.git
 cd shopping-app
 Install dependencies:
 
